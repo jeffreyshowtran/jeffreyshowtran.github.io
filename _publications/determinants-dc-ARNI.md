@@ -10,6 +10,7 @@ citation: 'n/a'
 ---
 This paper investigates the demographic, economic, and clinical determinants of ARNI prescription at hospital discharge. A great deal of attention was paid to the proper handling of missing data, ultimately employing multilevel multiple imputation to address a high volume of missing data. 
 
-[technical appendix](https://jeffreyshowtran.github.io/files/tech_appendix.html)
+[Annotated Technical Appendix](https://jeffreyshowtran.github.io/files/tech_appendix.html)
+[Link to GitHub Repo](https://github.com/jeffreyshowtran/ARNI-prescription-determinants)
 
 Recommended citation: Pending.
