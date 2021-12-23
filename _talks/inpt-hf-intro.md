@@ -2,7 +2,7 @@
 title: "Intro to Inpatient Heart Failure"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/Inpt_HF_Intro
 venue: "University of Arizona"
 date: 2021-08-05
 location: "Tucson, Arizona"
