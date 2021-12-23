@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a general cardiology fellow at the University of Arizona, T32 research candidate, data analyst, and aspiring data scientist. In a past life, I was a professional analyst at a health policy consulting firm and then at a think tank. Since then I've become an avid investigator into how we can use data better in healthcare, ranging from statistical methods to database engineering to web applications. 
+I'm a general cardiology fellow at the University of Arizona, T32 research trainee, and aspiring data scientist. Before starting my medical career, I was a professional analyst at a health policy consulting firm, which sparked my interest in how we can use healthcare data better, ranging from statistical methods to automated data pipelining and database engineering to web applications. I've placed my clinical training on hold to pursue a T32 year under the guidance of Dr. Nancy Sweitzer with the goal of pipelining electronic health record data, imaging data, and diagnostic reporting data into a single database so we can answer cardiovascular research questions more efficiently. 
 
-I love clinical cardiology, but I've currently placed my cardiology training on hiatus to pursue a T32 year at the UA. My goal is to create a cardiovascular database based on Banner's EHR and PACS data to serve as a basis for further clinical research as well as webapp-based clinical support tools. 
+Clinically, I love medicine (#internistfirst) as well as general cardiology, but I love the cath lab more so I'll be pursuing interventional/structural cardiology.
 
 I'm proficient in R and STATA, know a bit of SAS, SQL, HTML, and CSS, and just enough python to get by. 
 
