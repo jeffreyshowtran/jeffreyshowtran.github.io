@@ -2,11 +2,11 @@
 title: "A Systems-Based Analysis of the CardioMEMS HF Sensor for Chronic Heart Failure Management"
 collection: publications
 permalink: /publication/systems-approach-cardiomems
-excerpt: 'The CardioMEMS system relies on input from patients and providers. This paper investigates how use practices by these individuals impacts patients outcomes'
+excerpt: 'The CardioMEMS system relies on input from patients and providers. This paper investigates how use practices by these individuals impacts patient outcomes'
 date: 2019-07-17
 venue: 'Cardiology Research and Practice'
 paperurl: 'https://www.hindawi.com/journals/crp/2019/7979830/'
-citation: 'Jeffrey S. Tran, Aaron M. Wolfson, Daniel O’Brien, Omid Yousefian, David M. Shavelle, "A Systems-Based Analysis of the CardioMEMS HF Sensor for Chronic Heart Failure Management", <i>Cardiology Research and Practice</i>, vol. 2019, Article ID 7979830, 7 pages, 2019.'
+citation: 'Jeffrey S. Tran, Aaron M. Wolfson, Daniel O’Brien, Omid Yousefian, David M. Shavelle. A Systems-Based Analysis of the CardioMEMS HF Sensor for Chronic Heart Failure Management. Cardiology Research and Practice, vol. 2019, Article ID 7979830, 7 pages, 2019.'
 ---
 Background: Hemodynamic-guided therapy using the CardioMEMSTM system has been shown to reduce heart failure hospitalization (HFH) in both clinical trials and real-world settings. However, the CardioMEMS system requires input from multiple independent elements to achieve its effect, and no studies have been done to investigate those elements. Consistent patient participation and health care provider participation are two of those key elements, and this study sought to assess how they affect HFHs. 
 Methods: This was a single-center, retrospective cohort study of patients with the CardioMEMS sensor. The primary outcome was the number of HFH days patients experienced in the 1 year following CardioMEMS sensor implant. The primary independent variables were the average number of days between patient transmissions of data and the average number of days between health care provider reviews of those data. Covariates included patient demographics, medical comorbidities, history of HFHs, and initial pressure response to hemodynamic-guided therapy at 28 days after implant. Data were fit to a zero-inflated negative binomial regression. 
